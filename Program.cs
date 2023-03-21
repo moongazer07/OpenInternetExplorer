@@ -57,7 +57,7 @@ static string GetStartPage(string[] args)
     {
 
     }
-    return "https://www.bing.com";
+    return "https://www.startpage.com";
 }
 
 static string? GetStartPageByRegistry(RegistryView registryView)
